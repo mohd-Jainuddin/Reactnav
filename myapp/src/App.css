@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  display: flex;
+  padding: 0 50px;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+}
+
+ul{
+  display: flex;
+  list-style-type: none;
+  padding: 10px;
+}
+
+li{
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+li:hover{
+  color: red;
+}
+
+img{
+  width: 50px;
+}
