@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+
+.container{
+    width: 300px;
+    padding: 5px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+
+.btn{
+    width: 20%;
+    margin: 0 auto;
+}
